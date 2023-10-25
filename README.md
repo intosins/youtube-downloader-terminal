@@ -26,6 +26,8 @@ If you have any questions or need assistance, you can find us on Discord.
 The YouTube Downloader Terminal is designed to run on Windows 10, Windows 8, and Windows 7 operating systems.
 Please note that you should have Python 3 installed on your system to run the tool successfully. The script was coded using Python version 3.11.4.
 
+Just download main.py and run it in VS studio code to use downloader.
+
 ```bash
 1. Install the required dependencies:
 
