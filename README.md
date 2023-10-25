@@ -17,10 +17,10 @@ Discord: @intosins
   
 ## Usage
 
-```bash
 Works on Windows 10, Windows 8, Windows 7, don't know about Linux.
 You should have Python 3. (script coded on 3.11.4 python version)
 
+```bash
 1. Install the required dependencies:
 
 pip install pytube pyfiglet colorama
