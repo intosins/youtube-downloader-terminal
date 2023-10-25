@@ -4,12 +4,14 @@
 
 Python YouTube downloader in terminal.
 
+![Project1](icons/project.png)
+
 ## Features
 
 - Downloads any YouTube video.
 - Allows you to pick low or high quality.
 
-## Credits
+## License
 
 ![Icon2](icons/discord.png)
 
