@@ -1,6 +1,6 @@
 # YouTube Downloader Terminal
 
-![YT](youtube.png)
+![Icon1](icons/youtube.png)
 
 Python YouTube downloader in terminal.
 
@@ -11,7 +11,7 @@ Python YouTube downloader in terminal.
 
 ## Credits
 
-![DS](discord.png)
+![Icon2](icons/discord.png)
 
 Discord: @intosins
   
