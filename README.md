@@ -2,7 +2,7 @@
 
 ![Icon1](icons/youtube.png)
 
-Python YouTube downloader in terminal.
+Python YouTube downloader in terminal, allows to download any video just by having an url.
 
 ## Screenshots
 
@@ -32,7 +32,3 @@ pip install pytube pyfiglet colorama
 pip install pytube
 pip install pyfiglet
 pip install colorama
-
-2. Clone the repository:
-git clone https://github.com/intosins/youtube-downloader-terminal.git
-cd youtube-downloader-terminal
