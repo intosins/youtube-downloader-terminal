@@ -1,5 +1,7 @@
 # YouTube Downloader Terminal
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 ![Icon1](icons/youtube.png)
 
 Python YouTube downloader in terminal, allows to download any video just by having an url.
