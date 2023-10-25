@@ -2,7 +2,7 @@
 
 ![Icon1](icons/youtube.png)
 
-![Language](https://img.shields.io/badge/Language-Python-blue)
+![Language](https://img.shields.io/badge/language-Python-blue)
 
 YouTube Downloader Terminal is a Python-based tool designed for downloading YouTube videos directly from your terminal.
 
