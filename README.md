@@ -1,5 +1,4 @@
 # YouTube Downloader Terminal
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ![Icon1](icons/youtube.png)
