@@ -1,10 +1,8 @@
-<!-- Replace 'your-logo.png' and 'your-screenshot.png' with your actual image URLs -->
-
-# Youtube Downloader Terminal
+# YouTube Downloader Terminal
 
 ![YT](youtube.png)
 
-The project fully in python, need only 3 additional libraries to make it work.
+Python YouTube downloader in terminal.
 
 ## Features
 
@@ -20,8 +18,13 @@ Discord: @intosins
 ## Usage
 
 ```bash
-1. Dependencies:
-pytube, pyfiglet, colorama
+Works on Windows 10, Windows 8, Windows 7, don't know about Linux.
+You should have Python 3. (script coded on 3.11.4 python version)
+
+1. Install the required dependencies:
+
+pip install pytube pyfiglet colorama
+
 pip install pytube
 pip install pyfiglet
 pip install colorama
