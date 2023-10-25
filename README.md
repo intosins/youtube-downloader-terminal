@@ -18,7 +18,8 @@ YouTube Downloader Terminal is a Python-based tool designed for downloading YouT
 ![Icon2](icons/discord.png)
 
 Discord: @intosins
-If you have any questions or need assistance, you can find us on Discord. Reach out to us at @intosins, and we'll be happy to help you with any inquiries or issues you may have regarding the YouTube Downloader Terminal.
+
+If you have any questions or need assistance, you can find us on Discord.
   
 ## Usage
 
