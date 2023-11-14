@@ -1,3 +1,5 @@
+# Youtube downloader terminal by @intosins
+
 import sys
 import os
 from pytube import YouTube
