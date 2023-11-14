@@ -12,8 +12,13 @@ YouTube Downloader Terminal is a Python-based tool designed for downloading YouT
 
 ## Features
 
+- Very simple to use.
 - You can download any YouTube video just by providing url.
 - Allows you to pick low or high quality before downloading YouTube video.
+
+## Cons
+
+- Unhandled exceptions.
 
 ## Discord
 
